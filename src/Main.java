@@ -8,6 +8,7 @@ public class Main {
         long dragonBigger = 1000L;
         float meat = 100.25f;
         double wineRed = 500.857;
+        boolean isFlag = true;
 
         // Задание 2
         float fighterFirst = 78.2f;
